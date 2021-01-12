@@ -1,0 +1,9 @@
+node_modules
+.parcel-cache
+.DS_Store
+.cache
+.vscode
+css
+img
+sass
+src
